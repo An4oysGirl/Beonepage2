@@ -1,0 +1,415 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.one {
+  background: rgb(20, 20, 20);
+  padding: 65px 0px;
+  width: 100%;
+}
+
+.vlogo {
+  margin: 0px auto;
+  width: 1170px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  width: 195px;
+  height: 146.25px;
+}
+
+.ytpo {
+  padding: 80px 0px;
+  width: 100%;
+  background: url("http://beonepage.betheme.me/wp-content/uploads/2016/02/subscribe-bg.jpg");
+}
+
+.center {
+  margin: 0px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h2 {
+  margin: 0px 0px 90px 0px;
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+h3 {
+  margin: 0;
+  font-size: 33px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+
+.yell {
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 208, 0);
+}
+.yel {
+  font-size: 33px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 208, 0);
+}
+
+.wow {
+  margin: 10px 0px 30px 0px;
+  font-size: 16px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.wite {
+  padding: 7px 17px;
+  border: 2px solid white;
+  background: rgba(255, 255, 255, 0);
+  color: white;
+}
+.wite:hover {
+  cursor: pointer;
+  background: white;
+  color: black;
+  transition: 0.3s;
+}
+
+.plans {
+  background: rgb(20, 20, 20);
+  padding: 80px 0px;
+}
+
+.minus {
+  display: flex;
+  align-items: center;
+}
+
+.before {
+  margin-right: 15px;
+  width: 275px;
+  height: 2px;
+  background: rgb(122, 122, 122);
+}
+
+.dot {
+  color: rgb(255, 208, 0);
+  font-size: 20px;
+}
+
+.after {
+  margin-left: 15px;
+  width: 275px;
+  height: 2px;
+  background: rgb(122, 122, 122);
+}
+
+h4 {
+  font-size: 22px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  margin-bottom: 10px;
+}
+
+.plan_item {
+  width: 360px;
+  height: 444px;
+  background: rgb(0, 0, 0);
+  margin: 60px 15px;
+}
+
+.wow {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.price {
+  margin: 20px 105px 30px;
+  width: 150px;
+  height: 150px;
+  border: 2px solid rgb(255, 208, 0);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.price:hover {
+  cursor: pointer;
+  background: rgb(255, 208, 0);
+  transition: 1s;
+}
+
+.price:hover > span {
+  color: white;
+  transition: 1s;
+}
+.price:hover > div span {
+  color: white;
+  transition: 1s;
+}
+
+.sale {
+  font-size: 33px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 208, 0);
+}
+
+.num {
+  font-size: 46px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 208, 0);
+}
+
+.dur {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(255, 208, 0);
+}
+
+.plan {
+  display: flex;
+  justify-content: center;
+}
+
+.four {
+  padding: 80px 0px;
+  width: 100%;
+  background: url("http://beonepage.betheme.me/wp-content/uploads/2015/11/twitter-bg.jpg");
+}
+
+.twiter {
+  margin: 0px auto 40px;
+  width: 96px;
+  height: 96px;
+  border: 2px solid rgb(255, 208, 0);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bir {
+  font-size: 40px;
+  color: rgb(255, 208, 0);
+}
+
+.five {
+  padding: 80px 0px;
+  width: 100%;
+  background-color: rgb(17, 17, 17);
+}
+
+.witebig {
+  margin: 0px 0px 0px 300px;
+  padding: 0px 24px;
+  border: 2px solid white;
+  background: rgba(255, 255, 255, 0);
+  color: white;
+  font-size: 18px;
+}
+.witebig:hover {
+  cursor: pointer;
+  background: white;
+  color: black;
+  transition: 0.3s;
+}
+
+.cen {
+  display: flex;
+  justify-content: center;
+}
+
+.w {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 0px 0px 0px;
+}
+
+.six {
+  width: 100%;
+  padding: 80px 0px;
+  background: rgb(255, 208, 0);
+}
+
+h5 {
+  margin: 0;
+  font-size: 31px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.b {
+  margin: 10px 0px 0px 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.minys {
+  margin: 30px 0px;
+  display: flex;
+  align-items: center;
+}
+.befor {
+  margin-right: 15px;
+  width: 275px;
+  height: 2px;
+  background: rgb(0, 0, 0);
+}
+.dota {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+.aftere {
+  margin-left: 15px;
+  width: 275px;
+  height: 2px;
+  background: rgb(0, 0, 0);
+}
+
+.flex {
+  display: flex;
+}
+
+.imgu {
+  width: 25%;
+  height: 357px;
+  position: relative;
+}
+.imgu img {
+  width: 100%;
+  height: 100%;
+}
+.imgu iframe {
+  width: 100%;
+  height: 100%;
+}
+.imgu:hover > .data .read {
+  cursor: pointer;
+  height: 71px;
+
+}
+
+.transition {
+  transition: 0.3s;
+}
+
+.imga {
+  width: 100%;
+  height: 100%;
+  background: rgb(39, 39, 39);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.imgu:hover > .imga .str {
+  font-size: 180px;
+  color: rgb(194, 194, 194);
+  transition: 0.3s;
+}
+
+.str {
+  font-size: 95px;
+  color: rgb(122, 122, 122);
+}
+
+.textt {
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(238, 238, 238);
+}
+.imgu:hover > .imga .textt {
+  transition: 0.3s;
+  opacity: 0;
+}
+
+.data {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+.date {
+  width: 75px;
+  height: 71px;
+  background: white;
+  display: flex;
+  flex-direction: column;
+   align-items: center;
+   justify-content: center;
+}
+
+.number {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+}
+
+.mon {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 11px;
+}
+
+.read {
+  width: 75px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(255, 208, 0);
+}
+.p {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+}
+
+.meta {
+  width: 25%;
+  height: 84px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.g {
+margin: 20px 0px 0px 0px;
+font-size: 24px;
+}
+.gg {
+  margin: 5px 0px 0px 0px;
+  font-size: 16px;
+}
+
+
+.seven {
+  width: 100%;
+  background: url("http://beonepage.betheme.me/wp-content/uploads/2016/02/subscribe-bg.jpg");
+  padding: 80px 0px;
+}
+
+.email {
+  margin: 0px 0px 0px 300px;
+  width: 317px;
+  height: 48px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border: 1px solid white;
+}
+.yelloy {
+  height: 52px;
+  width: 140px;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border: 1px solid rgb(255, 208, 0);
+  background: rgb(255, 208, 0);
+  color: white;
+  font-size: 18px;
+}
+
+.end {
+  width: 100%;
+  padding: 80px 0px;
+  background: rgb(17, 17, 17);
+}
